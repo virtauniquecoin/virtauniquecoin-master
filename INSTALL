@@ -1,0 +1,9 @@
+Building virtauniquecoin
+
+See doc/readme-qt.rst for instructions on building virtauniquecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of virtauniquecoin.
+
+See doc/build-*.txt for instructions on building virtauniquecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of virtauniquecoin.
